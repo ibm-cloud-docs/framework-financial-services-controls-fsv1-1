@@ -1,18 +1,18 @@
 ---
 
 copyright:
-  years: 2020, 2025
+  years: 2020, 2026
 
-lastupdated: "2025-02-15"
+lastupdated: "2026-04-24"
 
 keywords:
 
-subcollection: framework-financial-services-controls
+subcollection: framework-financial-services-controls-fsv1-1
 ---
 
 {{site.data.keyword.attribute-definition-list}}
 
-               
+
 # AU-4 - Audit Storage Capacity [FSv1.1]
 {: #au-4}
 
@@ -35,20 +35,11 @@ See the resources that follow to learn more about how to implement this control.
 - [Audit logging of {{site.data.keyword.cloud_notm}} events](/docs/framework-financial-services?topic=framework-financial-services-shared-logging-audit)
 - [{{site.data.keyword.cloud_notm}} account setup](/docs/framework-financial-services?topic=framework-financial-services-shared-account-setup)
 
-## IBM Cloud for Financial Services profile
-{: #scc-fs-cloud-profile}
 
-The rules related to this control that follow are part of the IBM Cloud for Financial Services v1.2.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
 
-- Check whether Cloud Object Storage quota enforcement is off for buckets that are configured to use Activity Tracker Event Routing 
-- Check whether Cloud Object Storage buckets with a quota have threshold-based alerts enabled
+
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}
 
 Organizations consider the types of auditing to be performed and the audit processing requirements when allocating audit storage capacity. Allocating sufficient audit storage capacity reduces the likelihood of such capacity being exceeded and resulting in the potential loss or reduction of auditing capability.
-
-
-
-
-

@@ -1,18 +1,18 @@
 ---
 
 copyright:
-  years: 2020, 2025
+  years: 2020, 2026
 
-lastupdated: "2025-02-15"
+lastupdated: "2026-04-24"
 
 keywords:
 
-subcollection: framework-financial-services-controls
+subcollection: framework-financial-services-controls-fsv1-1
 ---
 
 {{site.data.keyword.attribute-definition-list}}
 
-               
+
 # SI-6 - Security Function Verification [FSv1.1]
 {: #si-6}
 
@@ -48,8 +48,3 @@ See the resources that follow to learn more about how to implement this control.
 {: #nist-supplemental-guidance}
 
 Transitional states for information systems include, for example, system startup, restart, shutdown, and abort. Notifications provided by information systems include, for example, electronic alerts to system administrators, messages to local computer consoles, and/or hardware indications such as lights.
-
-
-
-
-

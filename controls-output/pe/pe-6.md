@@ -1,18 +1,18 @@
 ---
 
 copyright:
-  years: 2020, 2025
+  years: 2020, 2026
 
-lastupdated: "2025-02-15"
+lastupdated: "2026-04-24"
 
 keywords:
 
-subcollection: framework-financial-services-controls
+subcollection: framework-financial-services-controls-fsv1-1
 ---
 
 {{site.data.keyword.attribute-definition-list}}
 
-               
+
 # PE-6 - Monitoring Physical Access [FSv1.1]
 {: #pe-6}
 
@@ -38,8 +38,3 @@ PE-6 (c)
 {: #nist-supplemental-guidance}
 
 Organizational incident response capabilities include investigations of and responses to detected physical security incidents. Security incidents include, for example, apparent security violations or suspicious physical access activities. Suspicious physical access activities include, for example: (i) accesses outside of normal work hours; (ii) repeated accesses to areas not normally accessed; (iii) accesses for unusual lengths of time; and (iv) out-of-sequence accesses.
-
-
-
-
-

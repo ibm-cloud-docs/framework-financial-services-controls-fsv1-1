@@ -1,18 +1,18 @@
 ---
 
 copyright:
-  years: 2020, 2025
+  years: 2020, 2026
 
-lastupdated: "2025-02-15"
+lastupdated: "2026-04-24"
 
 keywords:
 
-subcollection: framework-financial-services-controls
+subcollection: framework-financial-services-controls-fsv1-1
 ---
 
 {{site.data.keyword.attribute-definition-list}}
 
-               
+
 # SA-2 - Allocation of Resources [FSv1.1]
 {: #sa-2}
 
@@ -38,8 +38,3 @@ SA-2 (c)
 {: #nist-supplemental-guidance}
 
 Resource allocation for information security includes funding for the initial information system or information system service acquisition and funding for the sustainment of the system/service.
-
-
-
-
-

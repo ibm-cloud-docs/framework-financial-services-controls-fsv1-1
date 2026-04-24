@@ -1,18 +1,18 @@
 ---
 
 copyright:
-  years: 2020, 2025
+  years: 2020, 2026
 
-lastupdated: "2025-02-15"
+lastupdated: "2026-04-24"
 
 keywords:
 
-subcollection: framework-financial-services-controls
+subcollection: framework-financial-services-controls-fsv1-1
 ---
 
 {{site.data.keyword.attribute-definition-list}}
 
-               
+
 # SC-7 (4) - External Telecommunications Services [FSv1.1]
 {: #sc-7.4}
 
@@ -46,8 +46,3 @@ SC-7 (4) (e)
 See the resources that follow to learn more about how to implement this control.
 
 - [Connecting application provider to the management VPC](/docs/framework-financial-services?topic=framework-financial-services-vpc-architecture-connectivity-management)
-
-
-
-
-

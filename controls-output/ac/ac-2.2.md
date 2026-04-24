@@ -1,18 +1,18 @@
 ---
 
 copyright:
-  years: 2020, 2025
+  years: 2020, 2026
 
-lastupdated: "2025-02-15"
+lastupdated: "2026-04-24"
 
 keywords:
 
-subcollection: framework-financial-services-controls
+subcollection: framework-financial-services-controls-fsv1-1
 ---
 
 {{site.data.keyword.attribute-definition-list}}
 
-               
+
 # AC-2 (2) - Removal of Temporary / Emergency Accounts [FSv1.1]
 {: #ac-2.2}
 
@@ -30,8 +30,3 @@ AC-2 (2) - 0
 {: #nist-supplemental-guidance}
 
 This control enhancement requires the removal of both temporary and emergency accounts automatically after a predefined period of time has elapsed, rather than at the convenience of the systems administrator.
-
-
-
-
-

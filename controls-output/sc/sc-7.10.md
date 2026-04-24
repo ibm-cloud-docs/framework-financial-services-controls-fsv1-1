@@ -1,13 +1,13 @@
 ---
 
 copyright:
-  years: 2020, 2025
+  years: 2020, 2026
 
-lastupdated: "2025-02-16"
+lastupdated: "2026-04-24"
 
 keywords:
 
-subcollection: framework-financial-services-controls
+subcollection: framework-financial-services-controls-fsv1-1
 ---
 
 {{site.data.keyword.attribute-definition-list}}
@@ -37,24 +37,7 @@ See the resources that follow to learn more about how to implement this control.
 - [Consumer connectivity to workload VPC](/docs/framework-financial-services?topic=framework-financial-services-vpc-architecture-connectivity-workload)
 - [Creating and connecting the management and workload VPCs](/docs/framework-financial-services?topic=framework-financial-services-vpc-architecture-connectivity-create-vpcs)
 
-## IBM Cloud for Financial Services profile
-{: #scc-fs-cloud-profile}
 
-The rules related to this control that follow are part of the IBM Cloud for Financial Services v1.2.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
-
-- Check whether Security Groups for VPC contains no outbound rules in security groups that specify source IP 8.8.8.8/32 to DNS port
-- Check whether Virtual Private Cloud (VPC) has no public gateways attached
-- Check whether all virtual server instances have at least one Virtual Private Cloud (VPC) security group attached
-- Check whether Virtual Private Cloud (VPC) has no public gateways attached at the time of provisioning
-- Check whether account has at least one VPN or Direct Link configured
-- Check whether Virtual Private Cloud (VPC) classic access is disabled
-- Check whether Virtual Private Cloud (VPC) has no rules in the default security group
-- Check whether all network interfaces of a virtual server instance have at least one Virtual Private Cloud (VPC) security group attached
-- Check whether Virtual Servers for VPC instance has the minimum # interfaces
-- Check whether Virtual Private Cloud (VPC) has no subnet with public gateway attached
-- Check whether Virtual Private Cloud (VPC) security groups have outbound ports that are open only to permitted IP addresses
-- Check whether Virtual Private Cloud (VPC) is configured with public gateways that are provisionable only within permitted zones
-- Check whether Virtual Private Cloud (VPC) network access control lists don't allow egress from 0.0.0.0/0 to any port
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

@@ -1,13 +1,13 @@
 ---
 
 copyright:
-  years: 2020, 2025
+  years: 2020, 2026
 
-lastupdated: "2025-02-16"
+lastupdated: "2026-04-24"
 
 keywords:
 
-subcollection: framework-financial-services-controls
+subcollection: framework-financial-services-controls-fsv1-1
 ---
 
 {{site.data.keyword.attribute-definition-list}}
@@ -50,15 +50,7 @@ See the resources that follow to learn more about how to implement this control.
 - [Creating and connecting the management and workload VPCs](/docs/framework-financial-services?topic=framework-financial-services-vpc-architecture-connectivity-create-vpcs)
 - [{{site.data.keyword.cloud_notm}} account setup](/docs/framework-financial-services?topic=framework-financial-services-shared-account-setup)
 
-## IBM Cloud for Financial Services profile
-{: #scc-fs-cloud-profile}
 
-The rules related to this control that follow are part of the IBM Cloud for Financial Services v1.2.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
-
-| Requirement ID | Rules |
-|----------------|-------|
-| CA-3 (a) | - Check whether provisioned services are IAM enabled \n - Check whether the Financial Services Validated setting is enabled in account settings |
-{: caption="Rules for CA-3 in IBM Cloud for Financial Services v1.2.0 profile" caption-side="top"}
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

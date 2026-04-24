@@ -1,18 +1,18 @@
 ---
 
 copyright:
-  years: 2020, 2025
+  years: 2020, 2026
 
-lastupdated: "2025-02-15"
+lastupdated: "2026-04-24"
 
 keywords:
 
-subcollection: framework-financial-services-controls
+subcollection: framework-financial-services-controls-fsv1-1
 ---
 
 {{site.data.keyword.attribute-definition-list}}
 
-               
+
 # CP-8 (1) - Priority of Service Provisions [FSv1.1]
 {: #cp-8.1}
 
@@ -35,8 +35,3 @@ CP-8 (1) (b)
 {: #nist-supplemental-guidance}
 
 Organizations consider the potential mission/business impact in situations where telecommunications service providers are servicing other organizations with similar priority-of-service provisions.
-
-
-
-
-

@@ -1,18 +1,18 @@
 ---
 
 copyright:
-  years: 2020, 2025
+  years: 2020, 2026
 
-lastupdated: "2025-02-15"
+lastupdated: "2026-04-24"
 
 keywords:
 
-subcollection: framework-financial-services-controls
+subcollection: framework-financial-services-controls-fsv1-1
 ---
 
 {{site.data.keyword.attribute-definition-list}}
 
-               
+
 # CM-6 (1) - Automated Central Management / Application / Verification [FSv1.1]
 {: #cm-6.1}
 
@@ -32,16 +32,3 @@ CM-6 (1) - 0
 See the resources that follow to learn more about how to implement this control.
 
 - [Compliance monitoring](/docs/framework-financial-services?topic=framework-financial-services-shared-monitoring-compliance)
-
-## IBM Cloud for Financial Services profile
-{: #scc-fs-cloud-profile}
-
-The rules related to this control that follow are part of the IBM Cloud for Financial Services v1.2.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
-
-- Check whether DevSecOps Toolchain validates code against Center for Internet Security (CIS) Docker benchmarks to ensure container runtimes are configured securely 
-- Check whether DevSecOps Toolchain deployment has approved change documentation including security impact analysis
-
-
-
-
-

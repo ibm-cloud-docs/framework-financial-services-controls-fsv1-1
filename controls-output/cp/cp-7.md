@@ -1,18 +1,18 @@
 ---
 
 copyright:
-  years: 2020, 2025
+  years: 2020, 2026
 
-lastupdated: "2025-02-15"
+lastupdated: "2026-04-24"
 
 keywords:
 
-subcollection: framework-financial-services-controls
+subcollection: framework-financial-services-controls-fsv1-1
 ---
 
 {{site.data.keyword.attribute-definition-list}}
 
-               
+
 # CP-7 - Alternate Processing Site [FSv1.1]
 {: #cp-7}
 
@@ -49,24 +49,9 @@ See the resources that follow to learn more about how to implement this control.
 - [Operational logging](/docs/framework-financial-services?topic=framework-financial-services-shared-logging-operational)
 - [Operational monitoring](/docs/framework-financial-services?topic=framework-financial-services-shared-monitoring-operational)
 
-## IBM Cloud for Financial Services profile
-{: #scc-fs-cloud-profile}
 
-The rules related to this control that follow are part of the IBM Cloud for Financial Services v1.2.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
-
-| Requirement ID | Rules |
-|----------------|-------|
-| CP-7 (a) | - Check whether Hyper Protect Crypto Services instance has at least # crypto units \n - Check whether each Application Load Balancer for VPC is configured to use at least # zones \n - Check whether an OpenShift cluster has worker nodes across multiple zones \n - Check that any Cloud Object Storage buckets used by Activity Tracker Event Routing are configured as cross-region \n - Check that Hyper Protect Crypto Services has failover units in at least 2 different regions that are Financial Services Validated \n - Check whether there are at least # instances of Direct Link in an account \n - Check whether OpenShift version is up-to-date \n - Check whether each Virtual Private Cloud is configured to use at least # zones | 
-| CP-7 (b) | - Check whether each Application Load Balancer for VPC is configured to use at least # zones \n - Check whether an OpenShift cluster has worker nodes across multiple zones \n - Check that any Cloud Object Storage buckets used by Activity Tracker Event Routing are configured as cross-region \n - Check that Hyper Protect Crypto Services has failover units in at least 2 different regions that are Financial Services Validated \n - Check whether each Virtual Private Cloud is configured to use at least # zones | 
-| CP-7 (c) | - Check whether Hyper Protect Crypto Services instance has at least # crypto units \n - Check whether Hyper Protect Crypto Services instance has at least # crypto units \n - Check whether each Application Load Balancer for VPC is configured to use at least # zones \n - Check whether an OpenShift cluster has worker nodes across multiple zones \n - Check that any Cloud Object Storage buckets used by Activity Tracker Event Routing are configured as cross-region \n - Check that Hyper Protect Crypto Services has failover units in at least 2 different regions that are Financial Services Validated \n - Check whether each Virtual Private Cloud is configured to use at least # zones | 
-{: caption="Rules for CP-7 in IBM Cloud for Financial Services v1.2.0 profile" caption-side="top"}
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}
 
 Alternate processing sites are sites that are geographically distinct from primary processing sites. An alternate processing site provides processing capability in the event that the primary processing site is not available. Items covered by alternate processing site agreements include, for example, environmental conditions at alternate sites, access rules, physical and environmental protection requirements, and coordination for the transfer/assignment of personnel. Requirements are specifically allocated to alternate processing sites that reflect the requirements in contingency plans to maintain essential missions/business functions despite disruption, compromise, or failure in organizational information systems.
-
-
-
-
-

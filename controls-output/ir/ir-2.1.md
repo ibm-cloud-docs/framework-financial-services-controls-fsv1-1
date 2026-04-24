@@ -1,18 +1,18 @@
 ---
 
 copyright:
-  years: 2020, 2025
+  years: 2020, 2026
 
-lastupdated: "2025-02-15"
+lastupdated: "2026-04-24"
 
 keywords:
 
-subcollection: framework-financial-services-controls
+subcollection: framework-financial-services-controls-fsv1-1
 ---
 
 {{site.data.keyword.attribute-definition-list}}
 
-               
+
 # IR-2 (1) - Simulated Events [FSv1.1]
 {: #ir-2.1}
 
@@ -25,8 +25,3 @@ This control is based on IBM Cloud Framework for Financial Services v1.1.
 
 IR-2 (1) - 0
     : The organization incorporates simulated events into incident response training to facilitate effective response by personnel in crisis situations.
-
-
-
-
-
