@@ -1,18 +1,18 @@
 ---
 
 copyright:
-  years: 2020, 2025
+  years: 2020, 2026
 
-lastupdated: "2025-02-15"
+lastupdated: "2026-04-24"
 
 keywords:
 
-subcollection: framework-financial-services-controls
+subcollection: framework-financial-services-controls-fsv1-1
 ---
 
 {{site.data.keyword.attribute-definition-list}}
 
-               
+
 # PM-9 - Risk Management Strategy [FSv1.1]
 {: #pm-9}
 
@@ -33,8 +33,3 @@ PM-9 (b)
 
 PM-9 (c)
     : Reviews and updates the risk management strategy _[IBM Assignment: at least annually]_ or as required, to address organizational changes.
-
-
-
-
-

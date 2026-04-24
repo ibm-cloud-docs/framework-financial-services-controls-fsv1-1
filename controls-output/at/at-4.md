@@ -1,18 +1,18 @@
 ---
 
 copyright:
-  years: 2020, 2025
+  years: 2020, 2026
 
-lastupdated: "2025-02-15"
+lastupdated: "2026-04-24"
 
 keywords:
 
-subcollection: framework-financial-services-controls
+subcollection: framework-financial-services-controls-fsv1-1
 ---
 
 {{site.data.keyword.attribute-definition-list}}
 
-               
+
 # AT-4 - Security Training Records [FSv1.1]
 {: #at-4}
 
@@ -35,8 +35,3 @@ AT-4 (b)
 {: #nist-supplemental-guidance}
 
 Documentation for specialized training may be maintained by individual supervisors at the option of the organization.
-
-
-
-
-

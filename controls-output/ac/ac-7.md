@@ -1,18 +1,18 @@
 ---
 
 copyright:
-  years: 2020, 2025
+  years: 2020, 2026
 
-lastupdated: "2025-02-15"
+lastupdated: "2026-04-24"
 
 keywords:
 
-subcollection: framework-financial-services-controls
+subcollection: framework-financial-services-controls-fsv1-1
 ---
 
 {{site.data.keyword.attribute-definition-list}}
 
-               
+
 # AC-7 - Unsuccessful Logon Attempts [FSv1.1]
 {: #ac-7}
 
@@ -36,23 +36,10 @@ AC-7 (b)
 
 - Internal privileged accounts must remain locked until released by an administrator.
 
-## IBM Cloud for Financial Services profile
-{: #scc-fs-cloud-profile}
 
-The rules related to this control that follow are part of the IBM Cloud for Financial Services v1.2.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
 
-| Requirement ID | Rules |
-|----------------|-------|
-| AC-7 (a) | - IBMid enforces a limit of 5 consecutive unsuccessful sign in attempts \n - Check whether App ID lockout policy after failed # of sign-in attempts is enabled \n - Check whether App ID lockout policy after failed # of sign-in attempts is enabled \n - Check whether App ID lockout policy after failed # of sign-in attempts is enabled \n - Check whether App ID avoid password reuse policy is enabled | 
-| AC-7 (b) | - Check whether App ID lockout policy after failed # of sign-in attempts is enabled \n - Check whether App ID lockout policy after failed # of sign-in attempts is enabled \n - IBMid automatically locks an account for 30 minutes after 5 consecutive unsuccessful sign in attempts \n - Check whether App ID avoid password reuse policy is enabled \n - Check whether App ID lockout policy after a maximum specified time is set to # minute(s) | 
-{: caption="Rules for AC-7 in IBM Cloud for Financial Services v1.2.0 profile" caption-side="top"}
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}
 
 This control applies regardless of whether the logon occurs via a local or network connection. Due to the potential for denial of service, automatic lockouts initiated by information systems are usually temporary and automatically release after a predetermined time period established by organizations. If a delay algorithm is selected, organizations may choose to employ different algorithms for different information system components based on the capabilities of those components. Responses to unsuccessful logon attempts may be implemented at both the operating system and the application levels.
-
-
-
-
-

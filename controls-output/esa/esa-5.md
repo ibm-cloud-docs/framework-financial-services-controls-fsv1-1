@@ -1,18 +1,18 @@
 ---
 
 copyright:
-  years: 2020, 2025
+  years: 2020, 2026
 
-lastupdated: "2025-02-15"
+lastupdated: "2026-04-24"
 
 keywords:
 
-subcollection: framework-financial-services-controls
+subcollection: framework-financial-services-controls-fsv1-1
 ---
 
 {{site.data.keyword.attribute-definition-list}}
 
-               
+
 # ESA-5 - Subcontractor Risk Management [FSv1.1]
 {: #esa-5}
 
@@ -32,16 +32,3 @@ ESA-5 - 0
 See the resources that follow to learn more about how to implement this control.
 
 - [{{site.data.keyword.cloud_notm}} account setup](/docs/framework-financial-services?topic=framework-financial-services-shared-account-setup)
-
-## IBM Cloud for Financial Services profile
-{: #scc-fs-cloud-profile}
-
-The rules related to this control that follow are part of the IBM Cloud for Financial Services v1.2.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
-
-- Check whether provisioned services are IAM enabled 
-- Check whether the Financial Services Validated setting is enabled in account settings
-
-
-
-
-

@@ -1,18 +1,18 @@
 ---
 
 copyright:
-  years: 2020, 2025
+  years: 2020, 2026
 
-lastupdated: "2025-02-15"
+lastupdated: "2026-04-24"
 
 keywords:
 
-subcollection: framework-financial-services-controls
+subcollection: framework-financial-services-controls-fsv1-1
 ---
 
 {{site.data.keyword.attribute-definition-list}}
 
-               
+
 # SC-8 (1) - Cryptographic or Alternate Physical Protection [FSv1.1]
 {: #sc-8.1}
 
@@ -41,26 +41,9 @@ See the resources that follow to learn more about how to implement this control.
 - [Creating and connecting the management and workload VPCs](/docs/framework-financial-services?topic=framework-financial-services-vpc-architecture-connectivity-create-vpcs)
 - [Data encryption in transit](/docs/framework-financial-services?topic=framework-financial-services-shared-encryption-in-transit)
 
-## IBM Cloud for Financial Services profile
-{: #scc-fs-cloud-profile}
 
-The rules related to this control that follow are part of the IBM Cloud for Financial Services v1.2.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
-
-- Check whether App ID email dispatchers are using HTTPS only 
-- Check whether Cloud Object Storage is accessible only through HTTPS 
-- Check whether Application Load Balancer for VPC is configured to convert HTTP client requests to HTTPS 
-- Check whether App ID webhooks are using HTTPS only 
-- Check whether App ID redirect URIs are using HTTPS only 
-- Check whether Cloud Internet Services (CIS) has TLS mode set to End-to-End CA signed 
-- Check whether Application Load Balancer for VPC pool uses the HTTPS protocol for HTTPS listeners 
-- Check whether Application Load Balancer for VPC uses HTTPS (SSL & TLS) instead of HTTP
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}
 
 Encrypting information for transmission protects information from unauthorized disclosure and modification. Cryptographic mechanisms implemented to protect information integrity include, for example, cryptographic hash functions which have common application in digital signatures, checksums, and message authentication codes. Alternative physical security safeguards include, for example, protected distribution systems.
-
-
-
-
-

@@ -1,16 +1,12 @@
-#  Name your file `toc.yaml`
-#  Make sure you include all nav file coding requirements, as defined in https://test.cloud.ibm.com/docs-internal/writing?topic=writing-code-nav
-#  Anything with a fully qualified URL with `http` or `https` will get an external link icon added to the nav entry
----
 toc:
   properties:
     subcollection: framework-financial-services-controls-fsv1-1
     path: framework-financial-services-controls-fsv1-1
     href: /docs/framework-financial-services-controls-fsv1-1
-    service-name: framework-financial-services-controls-fsv1-1 # Replace
+    service-name: framework-financial-services-controls-fsv1-1
     audience: platform
-    category: platform_services # Replace
-    label: IBM Cloud Framework for Financial Services - Control Requirements [FSv1.1] # Replace
+    category: platform_services
+    label: IBM Cloud Framework for Financial Services - Control Requirements [FSv1.1]
   entries:
   - navgroup:
       id: reference

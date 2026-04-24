@@ -1,12 +1,12 @@
 ---
 
 copyright:
-  years: 2020, 2025
-lastupdated: "2025-02-15"
+  years: 2020, 2026
+lastupdated: "2026-04-24"
 
 keywords:
 
-subcollection: controls
+subcollection: framework-financial-services-controls-fsv1-1
 
 ---
 
@@ -48,8 +48,6 @@ Find what you are looking for in the topics that are available for {{site.data.k
 
 * [Implementation guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ac-2#implementation-guidance)
 
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ac-2#scc-fs-cloud-profile)
-
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ac-2#nist-supplemental-guidance)
 
 [AC-2 (1) - Automated System Account Management [FSv1.1]](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ac-2.1#ac-2.1)
@@ -76,8 +74,6 @@ Find what you are looking for in the topics that are available for {{site.data.k
 
 * [Implementation guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ac-2.4#implementation-guidance)
 
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ac-2.4#scc-fs-cloud-profile)
-
 [AC-2 (7) - Role-based Schemes [FSv1.1]](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ac-2.7#ac-2.7)
 
 * [Control requirements](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ac-2.7#control-requirements)
@@ -98,8 +94,6 @@ Find what you are looking for in the topics that are available for {{site.data.k
 
 * [Implementation guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ac-3#implementation-guidance)
 
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ac-3#scc-fs-cloud-profile)
-
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ac-3#nist-supplemental-guidance)
 
 [AC-4 - Information Flow Enforcement [FSv1.1]](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ac-4#ac-4)
@@ -109,8 +103,6 @@ Find what you are looking for in the topics that are available for {{site.data.k
 * [Additional IBM Cloud for Financial Services specifications](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ac-4#additional-ibm-cloud-for-financial-services-specifications)
 
 * [Implementation guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ac-4#implementation-guidance)
-
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ac-4#scc-fs-cloud-profile)
 
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ac-4#nist-supplemental-guidance)
 
@@ -160,8 +152,6 @@ Find what you are looking for in the topics that are available for {{site.data.k
 
 * [Implementation guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ac-5#implementation-guidance)
 
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ac-5#scc-fs-cloud-profile)
-
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ac-5#nist-supplemental-guidance)
 
 [AC-6 - Least Privilege [FSv1.1]](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ac-6#ac-6)
@@ -171,8 +161,6 @@ Find what you are looking for in the topics that are available for {{site.data.k
 * [Additional IBM Cloud for Financial Services specifications](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ac-6#additional-ibm-cloud-for-financial-services-specifications)
 
 * [Implementation guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ac-6#implementation-guidance)
-
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ac-6#scc-fs-cloud-profile)
 
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ac-6#nist-supplemental-guidance)
 
@@ -200,8 +188,6 @@ Find what you are looking for in the topics that are available for {{site.data.k
 
 * [Implementation guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ac-6.9#implementation-guidance)
 
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ac-6.9#scc-fs-cloud-profile)
-
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ac-6.9#nist-supplemental-guidance)
 
 [AC-6 (10) - Prohibit Non-privileged Users from Executing Privileged Functions [FSv1.1]](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ac-6.10#ac-6.10)
@@ -215,8 +201,6 @@ Find what you are looking for in the topics that are available for {{site.data.k
 * [Control requirements](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ac-7#control-requirements)
 
 * [Additional IBM Cloud for Financial Services specifications](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ac-7#additional-ibm-cloud-for-financial-services-specifications)
-
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ac-7#scc-fs-cloud-profile)
 
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ac-7#nist-supplemental-guidance)
 
@@ -232,23 +216,17 @@ Find what you are looking for in the topics that are available for {{site.data.k
 
 * [Implementation guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ac-11#implementation-guidance)
 
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ac-11#scc-fs-cloud-profile)
-
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ac-11#nist-supplemental-guidance)
 
 [AC-11 (1) - Pattern-hiding Displays [FSv1.1]](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ac-11.1#ac-11.1)
 
 * [Control requirements](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ac-11.1#control-requirements)
 
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ac-11.1#scc-fs-cloud-profile)
-
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ac-11.1#nist-supplemental-guidance)
 
 [AC-14 - Permitted Actions Without Identification or Authentication [FSv1.1]](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ac-14#ac-14)
 
 * [Control requirements](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ac-14#control-requirements)
-
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ac-14#scc-fs-cloud-profile)
 
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ac-14#nist-supplemental-guidance)
 
@@ -257,8 +235,6 @@ Find what you are looking for in the topics that are available for {{site.data.k
 * [Control requirements](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ac-16#control-requirements)
 
 * [Implementation guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ac-16#implementation-guidance)
-
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ac-16#scc-fs-cloud-profile)
 
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ac-16#nist-supplemental-guidance)
 
@@ -273,8 +249,6 @@ Find what you are looking for in the topics that are available for {{site.data.k
 [AC-17 (9) - Disconnect / Disable Access [FSv1.1]](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ac-17.9#ac-17.9)
 
 * [Control requirements](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ac-17.9#control-requirements)
-
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ac-17.9#scc-fs-cloud-profile)
 
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ac-17.9#nist-supplemental-guidance)
 
@@ -303,8 +277,6 @@ Find what you are looking for in the topics that are available for {{site.data.k
 * [Additional IBM Cloud for Financial Services specifications](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ac-20#additional-ibm-cloud-for-financial-services-specifications)
 
 * [Implementation guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ac-20#implementation-guidance)
-
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ac-20#scc-fs-cloud-profile)
 
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ac-20#nist-supplemental-guidance)
 
@@ -368,8 +340,6 @@ Find what you are looking for in the topics that are available for {{site.data.k
 
 * [Additional IBM Cloud for Financial Services specifications](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-au-2#additional-ibm-cloud-for-financial-services-specifications)
 
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-au-2#scc-fs-cloud-profile)
-
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-au-2#nist-supplemental-guidance)
 
 [AU-2 (3) - Reviews and Updates [FSv1.1]](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-au-2.3#au-2.3)
@@ -386,8 +356,6 @@ Find what you are looking for in the topics that are available for {{site.data.k
 
 * [Implementation guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-au-3#implementation-guidance)
 
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-au-3#scc-fs-cloud-profile)
-
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-au-3#nist-supplemental-guidance)
 
 [AU-4 - Audit Storage Capacity [FSv1.1]](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-au-4#au-4)
@@ -395,8 +363,6 @@ Find what you are looking for in the topics that are available for {{site.data.k
 * [Control requirements](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-au-4#control-requirements)
 
 * [Implementation guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-au-4#implementation-guidance)
-
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-au-4#scc-fs-cloud-profile)
 
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-au-4#nist-supplemental-guidance)
 
@@ -438,8 +404,6 @@ Find what you are looking for in the topics that are available for {{site.data.k
 
 * [Control requirements](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-au-8#control-requirements)
 
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-au-8#scc-fs-cloud-profile)
-
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-au-8#nist-supplemental-guidance)
 
 [AU-8 (1) - Synchronization with Authoritative Time Source [FSv1.1]](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-au-8.1#au-8.1)
@@ -457,8 +421,6 @@ Find what you are looking for in the topics that are available for {{site.data.k
 [AU-9 (2) - Audit Backup On Separate Physical Systems / Components [FSv1.1]](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-au-9.2#au-9.2)
 
 * [Control requirements](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-au-9.2#control-requirements)
-
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-au-9.2#scc-fs-cloud-profile)
 
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-au-9.2#nist-supplemental-guidance)
 
@@ -478,15 +440,11 @@ Find what you are looking for in the topics that are available for {{site.data.k
 
 * [Implementation guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-au-11#implementation-guidance)
 
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-au-11#scc-fs-cloud-profile)
-
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-au-11#nist-supplemental-guidance)
 
 [AU-12 - Audit Generation [FSv1.1]](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-au-12#au-12)
 
 * [Control requirements](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-au-12#control-requirements)
-
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-au-12#scc-fs-cloud-profile)
 
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-au-12#nist-supplemental-guidance)
 
@@ -533,8 +491,6 @@ Find what you are looking for in the topics that are available for {{site.data.k
 
 * [Control requirements](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ca-2.2#control-requirements)
 
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ca-2.2#scc-fs-cloud-profile)
-
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ca-2.2#nist-supplemental-guidance)
 
 [CA-3 - System Interconnections [FSv1.1]](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ca-3#ca-3)
@@ -544,8 +500,6 @@ Find what you are looking for in the topics that are available for {{site.data.k
 * [Additional IBM Cloud for Financial Services specifications](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ca-3#additional-ibm-cloud-for-financial-services-specifications)
 
 * [Implementation guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ca-3#implementation-guidance)
-
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ca-3#scc-fs-cloud-profile)
 
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ca-3#nist-supplemental-guidance)
 
@@ -568,8 +522,6 @@ Find what you are looking for in the topics that are available for {{site.data.k
 * [Additional IBM Cloud for Financial Services specifications](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ca-7#additional-ibm-cloud-for-financial-services-specifications)
 
 * [Implementation guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ca-7#implementation-guidance)
-
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ca-7#scc-fs-cloud-profile)
 
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ca-7#nist-supplemental-guidance)
 
@@ -602,8 +554,6 @@ Find what you are looking for in the topics that are available for {{site.data.k
 
 * [Additional IBM Cloud for Financial Services specifications](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cm-2#additional-ibm-cloud-for-financial-services-specifications)
 
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cm-2#scc-fs-cloud-profile)
-
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cm-2#nist-supplemental-guidance)
 
 [CM-2 (1) - Reviews and Updates [FSv1.1]](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cm-2.1#cm-2.1)
@@ -616,15 +566,11 @@ Find what you are looking for in the topics that are available for {{site.data.k
 
 * [Implementation guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cm-2.2#implementation-guidance)
 
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cm-2.2#scc-fs-cloud-profile)
-
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cm-2.2#nist-supplemental-guidance)
 
 [CM-2 (3) - Retention of Previous Configurations [FSv1.1]](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cm-2.3#cm-2.3)
 
 * [Control requirements](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cm-2.3#control-requirements)
-
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cm-2.3#scc-fs-cloud-profile)
 
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cm-2.3#nist-supplemental-guidance)
 
@@ -634,8 +580,6 @@ Find what you are looking for in the topics that are available for {{site.data.k
 
 * [Additional IBM Cloud for Financial Services specifications](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cm-3#additional-ibm-cloud-for-financial-services-specifications)
 
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cm-3#scc-fs-cloud-profile)
-
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cm-3#nist-supplemental-guidance)
 
 [CM-3 (2) - Test / Validate / Document Changes [FSv1.1]](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cm-3.2#cm-3.2)
@@ -644,15 +588,11 @@ Find what you are looking for in the topics that are available for {{site.data.k
 
 * [Additional IBM Cloud for Financial Services specifications](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cm-3.2#additional-ibm-cloud-for-financial-services-specifications)
 
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cm-3.2#scc-fs-cloud-profile)
-
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cm-3.2#nist-supplemental-guidance)
 
 [CM-4 - Security Impact Analysis [FSv1.1]](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cm-4#cm-4)
 
 * [Control requirements](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cm-4#control-requirements)
-
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cm-4#scc-fs-cloud-profile)
 
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cm-4#nist-supplemental-guidance)
 
@@ -662,8 +602,6 @@ Find what you are looking for in the topics that are available for {{site.data.k
 
 * [Additional IBM Cloud for Financial Services specifications](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cm-4.1#additional-ibm-cloud-for-financial-services-specifications)
 
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cm-4.1#scc-fs-cloud-profile)
-
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cm-4.1#nist-supplemental-guidance)
 
 [CM-5 - Access Restrictions for Change [FSv1.1]](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cm-5#cm-5)
@@ -671,8 +609,6 @@ Find what you are looking for in the topics that are available for {{site.data.k
 * [Control requirements](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cm-5#control-requirements)
 
 * [Additional IBM Cloud for Financial Services specifications](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cm-5#additional-ibm-cloud-for-financial-services-specifications)
-
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cm-5#scc-fs-cloud-profile)
 
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cm-5#nist-supplemental-guidance)
 
@@ -684,8 +620,6 @@ Find what you are looking for in the topics that are available for {{site.data.k
 
 * [Implementation guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cm-6#implementation-guidance)
 
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cm-6#scc-fs-cloud-profile)
-
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cm-6#nist-supplemental-guidance)
 
 [CM-6 (1) - Automated Central Management / Application / Verification [FSv1.1]](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cm-6.1#cm-6.1)
@@ -694,13 +628,9 @@ Find what you are looking for in the topics that are available for {{site.data.k
 
 * [Implementation guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cm-6.1#implementation-guidance)
 
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cm-6.1#scc-fs-cloud-profile)
-
 [CM-7 - Least Functionality [FSv1.1]](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cm-7#cm-7)
 
 * [Control requirements](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cm-7#control-requirements)
-
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cm-7#scc-fs-cloud-profile)
 
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cm-7#nist-supplemental-guidance)
 
@@ -714,21 +644,15 @@ Find what you are looking for in the topics that are available for {{site.data.k
 
 * [Control requirements](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cm-8#control-requirements)
 
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cm-8#scc-fs-cloud-profile)
-
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cm-8#nist-supplemental-guidance)
 
 [CM-8 (1) - Updates During Installations / Removals [FSv1.1]](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cm-8.1#cm-8.1)
 
 * [Control requirements](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cm-8.1#control-requirements)
 
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cm-8.1#scc-fs-cloud-profile)
-
 [CM-8 (2) - Automated Maintenance [FSv1.1]](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cm-8.2#cm-8.2)
 
 * [Control requirements](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cm-8.2#control-requirements)
-
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cm-8.2#scc-fs-cloud-profile)
 
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cm-8.2#nist-supplemental-guidance)
 
@@ -752,8 +676,6 @@ Find what you are looking for in the topics that are available for {{site.data.k
 
 * [Additional IBM Cloud for Financial Services specifications](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cm-9#additional-ibm-cloud-for-financial-services-specifications)
 
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cm-9#scc-fs-cloud-profile)
-
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cm-9#nist-supplemental-guidance)
 
 [CM-10 - Software Usage Restrictions [FSv1.1]](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cm-10#cm-10)
@@ -767,8 +689,6 @@ Find what you are looking for in the topics that are available for {{site.data.k
 * [Control requirements](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cm-10.1#control-requirements)
 
 * [Additional IBM Cloud for Financial Services specifications](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cm-10.1#additional-ibm-cloud-for-financial-services-specifications)
-
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cm-10.1#scc-fs-cloud-profile)
 
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cm-10.1#nist-supplemental-guidance)
 
@@ -851,15 +771,11 @@ Find what you are looking for in the topics that are available for {{site.data.k
 
 * [Implementation guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cp-6#implementation-guidance)
 
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cp-6#scc-fs-cloud-profile)
-
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cp-6#nist-supplemental-guidance)
 
 [CP-6 (1) - Separation from Primary Site [FSv1.1]](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cp-6.1#cp-6.1)
 
 * [Control requirements](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cp-6.1#control-requirements)
-
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cp-6.1#scc-fs-cloud-profile)
 
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cp-6.1#nist-supplemental-guidance)
 
@@ -877,15 +793,11 @@ Find what you are looking for in the topics that are available for {{site.data.k
 
 * [Implementation guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cp-7#implementation-guidance)
 
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cp-7#scc-fs-cloud-profile)
-
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cp-7#nist-supplemental-guidance)
 
 [CP-7 (1) - Separation from Primary Site [FSv1.1]](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cp-7.1#cp-7.1)
 
 * [Control requirements](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cp-7.1#control-requirements)
-
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cp-7.1#scc-fs-cloud-profile)
 
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cp-7.1#nist-supplemental-guidance)
 
@@ -905,8 +817,6 @@ Find what you are looking for in the topics that are available for {{site.data.k
 
 * [Control requirements](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cp-8#control-requirements)
 
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cp-8#scc-fs-cloud-profile)
-
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cp-8#nist-supplemental-guidance)
 
 [CP-8 (1) - Priority of Service Provisions [FSv1.1]](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cp-8.1#cp-8.1)
@@ -919,15 +829,11 @@ Find what you are looking for in the topics that are available for {{site.data.k
 
 * [Control requirements](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cp-8.2#control-requirements)
 
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cp-8.2#scc-fs-cloud-profile)
-
 [CP-9 - Information System Backup [FSv1.1]](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cp-9#cp-9)
 
 * [Control requirements](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cp-9#control-requirements)
 
 * [Implementation guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cp-9#implementation-guidance)
-
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cp-9#scc-fs-cloud-profile)
 
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cp-9#nist-supplemental-guidance)
 
@@ -942,8 +848,6 @@ Find what you are looking for in the topics that are available for {{site.data.k
 * [Additional IBM Cloud for Financial Services specifications](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cp-10#additional-ibm-cloud-for-financial-services-specifications)
 
 * [Implementation guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cp-10#implementation-guidance)
-
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cp-10#scc-fs-cloud-profile)
 
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-cp-10#nist-supplemental-guidance)
 
@@ -972,8 +876,6 @@ Find what you are looking for in the topics that are available for {{site.data.k
 
 * [Implementation guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ia-2#implementation-guidance)
 
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ia-2#scc-fs-cloud-profile)
-
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ia-2#nist-supplemental-guidance)
 
 [IA-2 (1) - Network Access to Privileged Accounts [FSv1.1]](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ia-2.1#ia-2.1)
@@ -982,13 +884,9 @@ Find what you are looking for in the topics that are available for {{site.data.k
 
 * [Implementation guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ia-2.1#implementation-guidance)
 
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ia-2.1#scc-fs-cloud-profile)
-
 [IA-2 (2) - Network Access to Non-privileged Accounts [FSv1.1]](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ia-2.2#ia-2.2)
 
 * [Control requirements](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ia-2.2#control-requirements)
-
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ia-2.2#scc-fs-cloud-profile)
 
 [IA-2 (11) - Remote Access - Separate Device [FSv1.1]](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ia-2.11#ia-2.11)
 
@@ -1004,8 +902,6 @@ Find what you are looking for in the topics that are available for {{site.data.k
 
 * [Additional IBM Cloud for Financial Services specifications](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ia-3#additional-ibm-cloud-for-financial-services-specifications)
 
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ia-3#scc-fs-cloud-profile)
-
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ia-3#nist-supplemental-guidance)
 
 [IA-4 - Identifier Management [FSv1.1]](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ia-4#ia-4)
@@ -1014,8 +910,6 @@ Find what you are looking for in the topics that are available for {{site.data.k
 
 * [Additional IBM Cloud for Financial Services specifications](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ia-4#additional-ibm-cloud-for-financial-services-specifications)
 
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ia-4#scc-fs-cloud-profile)
-
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ia-4#nist-supplemental-guidance)
 
 [IA-5 - Authenticator Management [FSv1.1]](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ia-5#ia-5)
@@ -1023,8 +917,6 @@ Find what you are looking for in the topics that are available for {{site.data.k
 * [Control requirements](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ia-5#control-requirements)
 
 * [Implementation guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ia-5#implementation-guidance)
-
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ia-5#scc-fs-cloud-profile)
 
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ia-5#nist-supplemental-guidance)
 
@@ -1052,8 +944,6 @@ Find what you are looking for in the topics that are available for {{site.data.k
 
 * [Control requirements](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ia-5.4#control-requirements)
 
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ia-5.4#scc-fs-cloud-profile)
-
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ia-5.4#nist-supplemental-guidance)
 
 [IA-5 (5) - Change Authenticators Prior to Delivery [FSv1.1]](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ia-5.5#ia-5.5)
@@ -1078,15 +968,11 @@ Find what you are looking for in the topics that are available for {{site.data.k
 
 * [Control requirements](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ia-6#control-requirements)
 
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ia-6#scc-fs-cloud-profile)
-
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ia-6#nist-supplemental-guidance)
 
 [IA-7 - Cryptographic Module Authentication [FSv1.1]](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ia-7#ia-7)
 
 * [Control requirements](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ia-7#control-requirements)
-
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ia-7#scc-fs-cloud-profile)
 
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ia-7#nist-supplemental-guidance)
 
@@ -1513,15 +1399,11 @@ Find what you are looking for in the topics that are available for {{site.data.k
 
 * [Implementation guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ra-5#implementation-guidance)
 
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ra-5#scc-fs-cloud-profile)
-
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ra-5#nist-supplemental-guidance)
 
 [RA-5 (1) - Update Tool Capability [FSv1.1]](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ra-5.1#ra-5.1)
 
 * [Control requirements](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ra-5.1#control-requirements)
-
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ra-5.1#scc-fs-cloud-profile)
 
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ra-5.1#nist-supplemental-guidance)
 
@@ -1529,13 +1411,9 @@ Find what you are looking for in the topics that are available for {{site.data.k
 
 * [Control requirements](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ra-5.2#control-requirements)
 
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ra-5.2#scc-fs-cloud-profile)
-
 [RA-5 (3) - Breadth / Depth of Coverage [FSv1.1]](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ra-5.3#ra-5.3)
 
 * [Control requirements](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ra-5.3#control-requirements)
-
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ra-5.3#scc-fs-cloud-profile)
 
 [RA-5 (5) - Privileged Access [FSv1.1]](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ra-5.5#ra-5.5)
 
@@ -1572,8 +1450,6 @@ Find what you are looking for in the topics that are available for {{site.data.k
 
 * [Implementation guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sa-3#implementation-guidance)
 
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sa-3#scc-fs-cloud-profile)
-
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sa-3#nist-supplemental-guidance)
 
 [SA-4 - Acquisition Process [FSv1.1]](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sa-4#sa-4)
@@ -1583,8 +1459,6 @@ Find what you are looking for in the topics that are available for {{site.data.k
 * [Additional IBM Cloud for Financial Services specifications](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sa-4#additional-ibm-cloud-for-financial-services-specifications)
 
 * [Implementation guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sa-4#implementation-guidance)
-
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sa-4#scc-fs-cloud-profile)
 
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sa-4#nist-supplemental-guidance)
 
@@ -1614,8 +1488,6 @@ Find what you are looking for in the topics that are available for {{site.data.k
 
 * [Implementation guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sa-8#implementation-guidance)
 
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sa-8#scc-fs-cloud-profile)
-
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sa-8#nist-supplemental-guidance)
 
 [SA-9 - External Information System Services [FSv1.1]](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sa-9#sa-9)
@@ -1625,8 +1497,6 @@ Find what you are looking for in the topics that are available for {{site.data.k
 * [Additional IBM Cloud for Financial Services specifications](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sa-9#additional-ibm-cloud-for-financial-services-specifications)
 
 * [Implementation guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sa-9#implementation-guidance)
-
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sa-9#scc-fs-cloud-profile)
 
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sa-9#nist-supplemental-guidance)
 
@@ -1638,8 +1508,6 @@ Find what you are looking for in the topics that are available for {{site.data.k
 
 * [Implementation guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sa-10#implementation-guidance)
 
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sa-10#scc-fs-cloud-profile)
-
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sa-10#nist-supplemental-guidance)
 
 [SA-10 (1) - Software / Firmware Integrity Verification [FSv1.1]](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sa-10.1#sa-10.1)
@@ -1647,8 +1515,6 @@ Find what you are looking for in the topics that are available for {{site.data.k
 * [Control requirements](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sa-10.1#control-requirements)
 
 * [Implementation guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sa-10.1#implementation-guidance)
-
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sa-10.1#scc-fs-cloud-profile)
 
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sa-10.1#nist-supplemental-guidance)
 
@@ -1684,8 +1550,6 @@ Find what you are looking for in the topics that are available for {{site.data.k
 
 * [Implementation guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sa-15#implementation-guidance)
 
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sa-15#scc-fs-cloud-profile)
-
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sa-15#nist-supplemental-guidance)
 
 [SA-15 (9) - Use of Live Data [FSv1.1]](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sa-15.9#sa-15.9)
@@ -1715,8 +1579,6 @@ Find what you are looking for in the topics that are available for {{site.data.k
 
 * [Implementation guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sc-2#implementation-guidance)
 
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sc-2#scc-fs-cloud-profile)
-
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sc-2#nist-supplemental-guidance)
 
 [SC-3 - Security Function Isolation [FSv1.1]](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sc-3#sc-3)
@@ -1726,8 +1588,6 @@ Find what you are looking for in the topics that are available for {{site.data.k
 * [Additional IBM Cloud for Financial Services specifications](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sc-3#additional-ibm-cloud-for-financial-services-specifications)
 
 * [Implementation guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sc-3#implementation-guidance)
-
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sc-3#scc-fs-cloud-profile)
 
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sc-3#nist-supplemental-guidance)
 
@@ -1751,8 +1611,6 @@ Find what you are looking for in the topics that are available for {{site.data.k
 
 * [Implementation guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sc-6#implementation-guidance)
 
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sc-6#scc-fs-cloud-profile)
-
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sc-6#nist-supplemental-guidance)
 
 [SC-7 - Boundary Protection [FSv1.1]](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sc-7#sc-7)
@@ -1762,8 +1620,6 @@ Find what you are looking for in the topics that are available for {{site.data.k
 * [Additional IBM Cloud for Financial Services specifications](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sc-7#additional-ibm-cloud-for-financial-services-specifications)
 
 * [Implementation guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sc-7#implementation-guidance)
-
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sc-7#scc-fs-cloud-profile)
 
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sc-7#nist-supplemental-guidance)
 
@@ -1779,8 +1635,6 @@ Find what you are looking for in the topics that are available for {{site.data.k
 
 * [Implementation guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sc-7.5#implementation-guidance)
 
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sc-7.5#scc-fs-cloud-profile)
-
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sc-7.5#nist-supplemental-guidance)
 
 [SC-7 (8) - Route Traffic to Authenticated Proxy Servers [FSv1.1]](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sc-7.8#sc-7.8)
@@ -1795,8 +1649,6 @@ Find what you are looking for in the topics that are available for {{site.data.k
 
 * [Implementation guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sc-7.10#implementation-guidance)
 
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sc-7.10#scc-fs-cloud-profile)
-
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sc-7.10#nist-supplemental-guidance)
 
 [SC-8 - Transmission Confidentiality and Integrity [FSv1.1]](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sc-8#sc-8)
@@ -1804,8 +1656,6 @@ Find what you are looking for in the topics that are available for {{site.data.k
 * [Control requirements](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sc-8#control-requirements)
 
 * [Implementation guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sc-8#implementation-guidance)
-
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sc-8#scc-fs-cloud-profile)
 
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sc-8#nist-supplemental-guidance)
 
@@ -1817,8 +1667,6 @@ Find what you are looking for in the topics that are available for {{site.data.k
 
 * [Implementation guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sc-8.1#implementation-guidance)
 
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sc-8.1#scc-fs-cloud-profile)
-
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sc-8.1#nist-supplemental-guidance)
 
 [SC-10 - Network Disconnect [FSv1.1]](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sc-10#sc-10)
@@ -1826,8 +1674,6 @@ Find what you are looking for in the topics that are available for {{site.data.k
 * [Control requirements](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sc-10#control-requirements)
 
 * [Implementation guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sc-10#implementation-guidance)
-
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sc-10#scc-fs-cloud-profile)
 
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sc-10#nist-supplemental-guidance)
 
@@ -1839,8 +1685,6 @@ Find what you are looking for in the topics that are available for {{site.data.k
 
 * [Implementation guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sc-11#implementation-guidance)
 
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sc-11#scc-fs-cloud-profile)
-
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sc-11#nist-supplemental-guidance)
 
 [SC-12 - Cryptographic Key Establishment and Management [FSv1.1]](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sc-12#sc-12)
@@ -1851,8 +1695,6 @@ Find what you are looking for in the topics that are available for {{site.data.k
 
 * [Implementation guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sc-12#implementation-guidance)
 
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sc-12#scc-fs-cloud-profile)
-
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sc-12#nist-supplemental-guidance)
 
 [SC-12 (2) - Symmetric Keys [FSv1.1]](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sc-12.2#sc-12.2)
@@ -1861,15 +1703,11 @@ Find what you are looking for in the topics that are available for {{site.data.k
 
 * [Implementation guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sc-12.2#implementation-guidance)
 
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sc-12.2#scc-fs-cloud-profile)
-
 [SC-12 (3) - Asymmetric Keys [FSv1.1]](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sc-12.3#sc-12.3)
 
 * [Control requirements](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sc-12.3#control-requirements)
 
 * [Implementation guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sc-12.3#implementation-guidance)
-
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sc-12.3#scc-fs-cloud-profile)
 
 [SC-13 - Cryptographic Protection [FSv1.1]](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sc-13#sc-13)
 
@@ -1878,8 +1716,6 @@ Find what you are looking for in the topics that are available for {{site.data.k
 * [Additional IBM Cloud for Financial Services specifications](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sc-13#additional-ibm-cloud-for-financial-services-specifications)
 
 * [Implementation guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sc-13#implementation-guidance)
-
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sc-13#scc-fs-cloud-profile)
 
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sc-13#nist-supplemental-guidance)
 
@@ -1933,8 +1769,6 @@ Find what you are looking for in the topics that are available for {{site.data.k
 
 * [Control requirements](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sc-23#control-requirements)
 
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sc-23#scc-fs-cloud-profile)
-
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sc-23#nist-supplemental-guidance)
 
 [SC-28 - Protection of Information at Rest [FSv1.1]](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sc-28#sc-28)
@@ -1943,8 +1777,6 @@ Find what you are looking for in the topics that are available for {{site.data.k
 
 * [Implementation guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sc-28#implementation-guidance)
 
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sc-28#scc-fs-cloud-profile)
-
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sc-28#nist-supplemental-guidance)
 
 [SC-28 (1) - Cryptographic Protection [FSv1.1]](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sc-28.1#sc-28.1)
@@ -1952,8 +1784,6 @@ Find what you are looking for in the topics that are available for {{site.data.k
 * [Control requirements](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sc-28.1#control-requirements)
 
 * [Implementation guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sc-28.1#implementation-guidance)
-
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sc-28.1#scc-fs-cloud-profile)
 
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-sc-28.1#nist-supplemental-guidance)
 
@@ -1976,8 +1806,6 @@ Find what you are looking for in the topics that are available for {{site.data.k
 
 * [Implementation guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-si-2#implementation-guidance)
 
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-si-2#scc-fs-cloud-profile)
-
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-si-2#nist-supplemental-guidance)
 
 [SI-2 (2) - Automated Flaw Remediation Status [FSv1.1]](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-si-2.2#si-2.2)
@@ -1985,8 +1813,6 @@ Find what you are looking for in the topics that are available for {{site.data.k
 * [Control requirements](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-si-2.2#control-requirements)
 
 * [Implementation guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-si-2.2#implementation-guidance)
-
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-si-2.2#scc-fs-cloud-profile)
 
 [SI-2 (3) - Time to Remediate Flaws / Benchmarks for Corrective Actions [FSv1.1]](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-si-2.3#si-2.3)
 
@@ -1997,8 +1823,6 @@ Find what you are looking for in the topics that are available for {{site.data.k
 [SI-3 - Malicious Code Protection [FSv1.1]](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-si-3#si-3)
 
 * [Control requirements](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-si-3#control-requirements)
-
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-si-3#scc-fs-cloud-profile)
 
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-si-3#nist-supplemental-guidance)
 
@@ -2011,8 +1835,6 @@ Find what you are looking for in the topics that are available for {{site.data.k
 [SI-4 - Information System Monitoring [FSv1.1]](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-si-4#si-4)
 
 * [Control requirements](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-si-4#control-requirements)
-
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-si-4#scc-fs-cloud-profile)
 
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-si-4#nist-supplemental-guidance)
 
@@ -2044,8 +1866,6 @@ Find what you are looking for in the topics that are available for {{site.data.k
 
 * [Implementation guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-si-5#implementation-guidance)
 
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-si-5#scc-fs-cloud-profile)
-
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-si-5#nist-supplemental-guidance)
 
 [SI-6 - Security Function Verification [FSv1.1]](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-si-6#si-6)
@@ -2062,8 +1882,6 @@ Find what you are looking for in the topics that are available for {{site.data.k
 
 * [Implementation guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-si-7#implementation-guidance)
 
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-si-7#scc-fs-cloud-profile)
-
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-si-7#nist-supplemental-guidance)
 
 [SI-8 - Spam Protection [FSv1.1]](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-si-8#si-8)
@@ -2077,8 +1895,6 @@ Find what you are looking for in the topics that are available for {{site.data.k
 [SI-10 - Information Input Validation [FSv1.1]](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-si-10#si-10)
 
 * [Control requirements](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-si-10#control-requirements)
-
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-si-10#scc-fs-cloud-profile)
 
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-si-10#nist-supplemental-guidance)
 
@@ -2095,8 +1911,6 @@ Find what you are looking for in the topics that are available for {{site.data.k
 * [Control requirements](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-si-12#control-requirements)
 
 * [Additional IBM Cloud for Financial Services specifications](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-si-12#additional-ibm-cloud-for-financial-services-specifications)
-
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-si-12#scc-fs-cloud-profile)
 
 * [NIST supplemental guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-si-12#nist-supplemental-guidance)
 
@@ -2179,8 +1993,6 @@ Find what you are looking for in the topics that are available for {{site.data.k
 
 * [Control requirements](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-esa-3#control-requirements)
 
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-esa-3#scc-fs-cloud-profile)
-
 [ESA-4 - Tracking and Removal of NPT [FSv1.1]](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-esa-4#esa-4)
 
 * [Control requirements](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-esa-4#control-requirements)
@@ -2190,8 +2002,6 @@ Find what you are looking for in the topics that are available for {{site.data.k
 * [Control requirements](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-esa-5#control-requirements)
 
 * [Implementation guidance](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-esa-5#implementation-guidance)
-
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-esa-5#scc-fs-cloud-profile)
 
 [ESA-6 - Source Code Management [FSv1.1]](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-esa-6#esa-6)
 
@@ -2209,4 +2019,3 @@ Find what you are looking for in the topics that are available for {{site.data.k
 [UL-2 - Information Sharing With Third Parties [FSv1.1]](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ul-2#ul-2)
 
 * [Control requirements](/docs/framework-financial-services-controls-fsv1-1?topic=framework-financial-services-controls-fsv1-1-ul-2#control-requirements)
-
